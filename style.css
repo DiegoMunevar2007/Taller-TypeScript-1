@@ -2,6 +2,7 @@
     background-color:rgb(95, 162, 183) ;
     padding-top: 10px;
     padding-bottom: 6px ;
+    display: flex;
 }
 
 .table{
@@ -12,5 +13,9 @@
     margin-left:5% ;
     color: black;
     font-weight: 400;
+}
+
+.logo{
+    width:150%;
 }
 
