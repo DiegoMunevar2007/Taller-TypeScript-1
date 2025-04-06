@@ -1,9 +1,14 @@
 .header{
-    background-color:rgb(96, 162, 183) ;
+    background-color:rgb(95, 162, 183) ;
+    padding-top: 10px;
+    padding-bottom: 6px ;
 }
+
 .table{
-    margin: 3%;
+    margin: 5%;
+    margin-left: 15% ;
 }
-thead{
-    background-color: rgb(242, 242, 242);
+#season-average{
+    margin-left:5% ;
 }
+
